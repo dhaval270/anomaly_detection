@@ -1,0 +1,524 @@
+{
+  "bottle": {
+    "PaDiM": {
+      "clean": {
+        "img_auroc": 0.9984126984126984,
+        "pix_auroc": 0.9789771462578669
+      },
+      "gaussian_noise_sev1": {
+        "img_auroc": 0.9984126984126984,
+        "pix_auroc": 0.9769283321160817
+      },
+      "gaussian_noise_sev2": {
+        "img_auroc": 0.9873015873015872,
+        "pix_auroc": 0.9703330450991293
+      },
+      "gaussian_noise_sev3": {
+        "img_auroc": 0.9603174603174603,
+        "pix_auroc": 0.9448584398658872
+      },
+      "gaussian_noise_sev4": {
+        "img_auroc": 0.6976190476190476,
+        "pix_auroc": 0.8596506873479668
+      },
+      "gaussian_noise_sev5": {
+        "img_auroc": 0.6396825396825396,
+        "pix_auroc": 0.7172022877628994
+      },
+      "gaussian_blur_sev1": {
+        "img_auroc": 0.9984126984126984,
+        "pix_auroc": 0.9790214513919653
+      },
+      "gaussian_blur_sev2": {
+        "img_auroc": 0.9992063492063492,
+        "pix_auroc": 0.9790647444519447
+      },
+      "gaussian_blur_sev3": {
+        "img_auroc": 0.9992063492063492,
+        "pix_auroc": 0.9790377664571555
+      },
+      "gaussian_blur_sev4": {
+        "img_auroc": 0.9984126984126984,
+        "pix_auroc": 0.9787862143876263
+      },
+      "gaussian_blur_sev5": {
+        "img_auroc": 0.9976190476190476,
+        "pix_auroc": 0.9780610388034237
+      },
+      "brightness_change_sev1": {
+        "img_auroc": 0.9992063492063492,
+        "pix_auroc": 0.9794382313291279
+      },
+      "brightness_change_sev2": {
+        "img_auroc": 0.9968253968253968,
+        "pix_auroc": 0.9775449474533445
+      },
+      "brightness_change_sev3": {
+        "img_auroc": 0.9674603174603174,
+        "pix_auroc": 0.9713282839364501
+      },
+      "brightness_change_sev4": {
+        "img_auroc": 0.8428571428571429,
+        "pix_auroc": 0.9599728019510093
+      },
+      "brightness_change_sev5": {
+        "img_auroc": 0.5198412698412698,
+        "pix_auroc": 0.8917672735162621
+      },
+      "jpeg_compression_sev1": {
+        "img_auroc": 0.9992063492063492,
+        "pix_auroc": 0.978787262818333
+      },
+      "jpeg_compression_sev2": {
+        "img_auroc": 0.9984126984126984,
+        "pix_auroc": 0.9784816678202498
+      },
+      "jpeg_compression_sev3": {
+        "img_auroc": 0.9984126984126984,
+        "pix_auroc": 0.9782909101574004
+      },
+      "jpeg_compression_sev4": {
+        "img_auroc": 0.9976190476190476,
+        "pix_auroc": 0.9757109759862774
+      },
+      "jpeg_compression_sev5": {
+        "img_auroc": 0.9650793650793651,
+        "pix_auroc": 0.9655960380792086
+      }
+    },
+    "PatchCore": {
+      "clean": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9617172378870908
+      },
+      "gaussian_noise_sev1": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9591278168509805
+      },
+      "gaussian_noise_sev2": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.954519383791334
+      },
+      "gaussian_noise_sev3": {
+        "img_auroc": 0.9968253968253968,
+        "pix_auroc": 0.9500804968893939
+      },
+      "gaussian_noise_sev4": {
+        "img_auroc": 0.9928571428571429,
+        "pix_auroc": 0.9442464825774524
+      },
+      "gaussian_noise_sev5": {
+        "img_auroc": 0.9825396825396825,
+        "pix_auroc": 0.9387820284426717
+      },
+      "gaussian_blur_sev1": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.961761657272493
+      },
+      "gaussian_blur_sev2": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9617843579650338
+      },
+      "gaussian_blur_sev3": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9621568148040465
+      },
+      "gaussian_blur_sev4": {
+        "img_auroc": 0.9992063492063492,
+        "pix_auroc": 0.9621998939415527
+      },
+      "gaussian_blur_sev5": {
+        "img_auroc": 0.9984126984126984,
+        "pix_auroc": 0.9618166068726817
+      },
+      "brightness_change_sev1": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9629186492907127
+      },
+      "brightness_change_sev2": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.963906396031212
+      },
+      "brightness_change_sev3": {
+        "img_auroc": 0.9833333333333333,
+        "pix_auroc": 0.9650032638649495
+      },
+      "brightness_change_sev4": {
+        "img_auroc": 0.9944444444444445,
+        "pix_auroc": 0.9663891665616011
+      },
+      "brightness_change_sev5": {
+        "img_auroc": 0.9793650793650794,
+        "pix_auroc": 0.9629224626361242
+      },
+      "jpeg_compression_sev1": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9614075256705724
+      },
+      "jpeg_compression_sev2": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9608051016463575
+      },
+      "jpeg_compression_sev3": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9601253601773282
+      },
+      "jpeg_compression_sev4": {
+        "img_auroc": 1.0,
+        "pix_auroc": 0.9563337328469893
+      },
+      "jpeg_compression_sev5": {
+        "img_auroc": 0.9865079365079364,
+        "pix_auroc": 0.9448560105394934
+      }
+    }
+  },
+  "capsule": {
+    "PaDiM": {
+      "clean": {
+        "img_auroc": 0.8711607499002793,
+        "pix_auroc": 0.9761457550326873
+      },
+      "gaussian_noise_sev1": {
+        "img_auroc": 0.8548065416832868,
+        "pix_auroc": 0.9741034709979286
+      },
+      "gaussian_noise_sev2": {
+        "img_auroc": 0.8492221779018748,
+        "pix_auroc": 0.9647144047515944
+      },
+      "gaussian_noise_sev3": {
+        "img_auroc": 0.7933785400877542,
+        "pix_auroc": 0.94849484575992
+      },
+      "gaussian_noise_sev4": {
+        "img_auroc": 0.5743917032309532,
+        "pix_auroc": 0.9275890366761459
+      },
+      "gaussian_noise_sev5": {
+        "img_auroc": 0.6465895492620662,
+        "pix_auroc": 0.9146277290472841
+      },
+      "gaussian_blur_sev1": {
+        "img_auroc": 0.8727562824092541,
+        "pix_auroc": 0.9762707504858437
+      },
+      "gaussian_blur_sev2": {
+        "img_auroc": 0.8683685680095732,
+        "pix_auroc": 0.9754670338036141
+      },
+      "gaussian_blur_sev3": {
+        "img_auroc": 0.8631830873554049,
+        "pix_auroc": 0.9739274266336786
+      },
+      "gaussian_blur_sev4": {
+        "img_auroc": 0.8400478659752693,
+        "pix_auroc": 0.9733176480123973
+      },
+      "gaussian_blur_sev5": {
+        "img_auroc": 0.7925807738332669,
+        "pix_auroc": 0.9676144057209781
+      },
+      "brightness_change_sev1": {
+        "img_auroc": 0.8460311128839251,
+        "pix_auroc": 0.8850744591380127
+      },
+      "brightness_change_sev2": {
+        "img_auroc": 0.7921818907060232,
+        "pix_auroc": 0.9360408206863652
+      },
+      "brightness_change_sev3": {
+        "img_auroc": 0.7722377343438371,
+        "pix_auroc": 0.958961382904618
+      },
+      "brightness_change_sev4": {
+        "img_auroc": 0.7012365376944555,
+        "pix_auroc": 0.9598875722296034
+      },
+      "brightness_change_sev5": {
+        "img_auroc": 0.7343438372556841,
+        "pix_auroc": 0.9577366388650315
+      },
+      "jpeg_compression_sev1": {
+        "img_auroc": 0.8683685680095732,
+        "pix_auroc": 0.975847061226127
+      },
+      "jpeg_compression_sev2": {
+        "img_auroc": 0.8707618667730356,
+        "pix_auroc": 0.9738859979080279
+      },
+      "jpeg_compression_sev3": {
+        "img_auroc": 0.856003191065018,
+        "pix_auroc": 0.9696272668951871
+      },
+      "jpeg_compression_sev4": {
+        "img_auroc": 0.8508177104108496,
+        "pix_auroc": 0.9595906812245371
+      },
+      "jpeg_compression_sev5": {
+        "img_auroc": 0.4706820901475867,
+        "pix_auroc": 0.8040184208943244
+      }
+    },
+    "PatchCore": {
+      "clean": {
+        "img_auroc": 0.869964100518548,
+        "pix_auroc": 0.9586159541834829
+      },
+      "gaussian_noise_sev1": {
+        "img_auroc": 0.8595931392102114,
+        "pix_auroc": 0.9575430857776392
+      },
+      "gaussian_noise_sev2": {
+        "img_auroc": 0.8388512165935381,
+        "pix_auroc": 0.9569995535882077
+      },
+      "gaussian_noise_sev3": {
+        "img_auroc": 0.8384523334662943,
+        "pix_auroc": 0.9561406174095217
+      },
+      "gaussian_noise_sev4": {
+        "img_auroc": 0.7546868767451137,
+        "pix_auroc": 0.9573444231064056
+      },
+      "gaussian_noise_sev5": {
+        "img_auroc": 0.6777024331870762,
+        "pix_auroc": 0.9566437819506243
+      },
+      "gaussian_blur_sev1": {
+        "img_auroc": 0.8691663342640606,
+        "pix_auroc": 0.9587817734474312
+      },
+      "gaussian_blur_sev2": {
+        "img_auroc": 0.8639808536098923,
+        "pix_auroc": 0.9578888461026233
+      },
+      "gaussian_blur_sev3": {
+        "img_auroc": 0.8516154766653371,
+        "pix_auroc": 0.958238417979708
+      },
+      "gaussian_blur_sev4": {
+        "img_auroc": 0.8368568009573195,
+        "pix_auroc": 0.9616940442112283
+      },
+      "gaussian_blur_sev5": {
+        "img_auroc": 0.7917830075787794,
+        "pix_auroc": 0.962828794203901
+      },
+      "brightness_change_sev1": {
+        "img_auroc": 0.7650578380534505,
+        "pix_auroc": 0.8175410049211502
+      },
+      "brightness_change_sev2": {
+        "img_auroc": 0.7602712405265257,
+        "pix_auroc": 0.9168926507439359
+      },
+      "brightness_change_sev3": {
+        "img_auroc": 0.8316713203031513,
+        "pix_auroc": 0.9484835646221972
+      },
+      "brightness_change_sev4": {
+        "img_auroc": 0.826086956521739,
+        "pix_auroc": 0.9599250210184997
+      },
+      "brightness_change_sev5": {
+        "img_auroc": 0.7363382528919027,
+        "pix_auroc": 0.9683327893701684
+      },
+      "jpeg_compression_sev1": {
+        "img_auroc": 0.8695652173913043,
+        "pix_auroc": 0.9581915190574335
+      },
+      "jpeg_compression_sev2": {
+        "img_auroc": 0.8691663342640606,
+        "pix_auroc": 0.9539600866160122
+      },
+      "jpeg_compression_sev3": {
+        "img_auroc": 0.8595931392102114,
+        "pix_auroc": 0.9496215096543146
+      },
+      "jpeg_compression_sev4": {
+        "img_auroc": 0.7351416035101715,
+        "pix_auroc": 0.9348822165903294
+      },
+      "jpeg_compression_sev5": {
+        "img_auroc": 0.5313123254886318,
+        "pix_auroc": 0.7670136358668758
+      }
+    }
+  },
+  "carpet": {
+    "PaDiM": {
+      "clean": {
+        "img_auroc": 0.9065008025682183,
+        "pix_auroc": 0.9824295833300039
+      },
+      "gaussian_noise_sev1": {
+        "img_auroc": 0.8992776886035312,
+        "pix_auroc": 0.982402609970219
+      },
+      "gaussian_noise_sev2": {
+        "img_auroc": 0.900481540930979,
+        "pix_auroc": 0.9819090811893799
+      },
+      "gaussian_noise_sev3": {
+        "img_auroc": 0.8872391653290529,
+        "pix_auroc": 0.9808264405939056
+      },
+      "gaussian_noise_sev4": {
+        "img_auroc": 0.8743980738362761,
+        "pix_auroc": 0.9780487785731521
+      },
+      "gaussian_noise_sev5": {
+        "img_auroc": 0.8134028892455859,
+        "pix_auroc": 0.9750748390177224
+      },
+      "gaussian_blur_sev1": {
+        "img_auroc": 0.908908507223114,
+        "pix_auroc": 0.9824368845407716
+      },
+      "gaussian_blur_sev2": {
+        "img_auroc": 0.9141252006420545,
+        "pix_auroc": 0.9825015651892042
+      },
+      "gaussian_blur_sev3": {
+        "img_auroc": 0.92776886035313,
+        "pix_auroc": 0.9822322692934515
+      },
+      "gaussian_blur_sev4": {
+        "img_auroc": 0.9297752808988764,
+        "pix_auroc": 0.9812205540315486
+      },
+      "gaussian_blur_sev5": {
+        "img_auroc": 0.9024879614767254,
+        "pix_auroc": 0.9764437541174337
+      },
+      "brightness_change_sev1": {
+        "img_auroc": 0.7969502407704655,
+        "pix_auroc": 0.977983175377254
+      },
+      "brightness_change_sev2": {
+        "img_auroc": 0.7339486356340289,
+        "pix_auroc": 0.9733414786276869
+      },
+      "brightness_change_sev3": {
+        "img_auroc": 0.49719101123595505,
+        "pix_auroc": 0.9454051194873392
+      },
+      "brightness_change_sev4": {
+        "img_auroc": 0.3619582664526485,
+        "pix_auroc": 0.8864665990967233
+      },
+      "brightness_change_sev5": {
+        "img_auroc": 0.4462279293739968,
+        "pix_auroc": 0.8080116543761868
+      },
+      "jpeg_compression_sev1": {
+        "img_auroc": 0.9056982343499197,
+        "pix_auroc": 0.9825347903354148
+      },
+      "jpeg_compression_sev2": {
+        "img_auroc": 0.901685393258427,
+        "pix_auroc": 0.9823875359862696
+      },
+      "jpeg_compression_sev3": {
+        "img_auroc": 0.9052969502407703,
+        "pix_auroc": 0.9821780629989498
+      },
+      "jpeg_compression_sev4": {
+        "img_auroc": 0.9093097913322632,
+        "pix_auroc": 0.9817772949373268
+      },
+      "jpeg_compression_sev5": {
+        "img_auroc": 0.8980738362760835,
+        "pix_auroc": 0.9795505436125271
+      }
+    },
+    "PatchCore": {
+      "clean": {
+        "img_auroc": 0.8683788121990369,
+        "pix_auroc": 0.9568121361556228
+      },
+      "gaussian_noise_sev1": {
+        "img_auroc": 0.867174959871589,
+        "pix_auroc": 0.9563588401843178
+      },
+      "gaussian_noise_sev2": {
+        "img_auroc": 0.8707865168539327,
+        "pix_auroc": 0.9557052970360087
+      },
+      "gaussian_noise_sev3": {
+        "img_auroc": 0.8575441412520065,
+        "pix_auroc": 0.954919416273418
+      },
+      "gaussian_noise_sev4": {
+        "img_auroc": 0.8262439807383628,
+        "pix_auroc": 0.9501049646863667
+      },
+      "gaussian_noise_sev5": {
+        "img_auroc": 0.82223113964687,
+        "pix_auroc": 0.9418913518074706
+      },
+      "gaussian_blur_sev1": {
+        "img_auroc": 0.869983948635634,
+        "pix_auroc": 0.9568376259046681
+      },
+      "gaussian_blur_sev2": {
+        "img_auroc": 0.8739967897271269,
+        "pix_auroc": 0.9567181518594886
+      },
+      "gaussian_blur_sev3": {
+        "img_auroc": 0.8888443017656501,
+        "pix_auroc": 0.9563190612400774
+      },
+      "gaussian_blur_sev4": {
+        "img_auroc": 0.9020866773675762,
+        "pix_auroc": 0.9554115998312473
+      },
+      "gaussian_blur_sev5": {
+        "img_auroc": 0.8936597110754414,
+        "pix_auroc": 0.9466647296397871
+      },
+      "brightness_change_sev1": {
+        "img_auroc": 0.7102728731942215,
+        "pix_auroc": 0.948537566565362
+      },
+      "brightness_change_sev2": {
+        "img_auroc": 0.6352327447833066,
+        "pix_auroc": 0.9385112008931304
+      },
+      "brightness_change_sev3": {
+        "img_auroc": 0.41292134831460675,
+        "pix_auroc": 0.8765487071285197
+      },
+      "brightness_change_sev4": {
+        "img_auroc": 0.2873194221508828,
+        "pix_auroc": 0.8009258849846201
+      },
+      "brightness_change_sev5": {
+        "img_auroc": 0.3001605136436597,
+        "pix_auroc": 0.7493187729107713
+      },
+      "jpeg_compression_sev1": {
+        "img_auroc": 0.8691813804173354,
+        "pix_auroc": 0.9566079617518116
+      },
+      "jpeg_compression_sev2": {
+        "img_auroc": 0.8735955056179775,
+        "pix_auroc": 0.9567725469560742
+      },
+      "jpeg_compression_sev3": {
+        "img_auroc": 0.8659711075441412,
+        "pix_auroc": 0.9561254560643824
+      },
+      "jpeg_compression_sev4": {
+        "img_auroc": 0.8623595505617978,
+        "pix_auroc": 0.9546563604224142
+      },
+      "jpeg_compression_sev5": {
+        "img_auroc": 0.8872391653290529,
+        "pix_auroc": 0.955098750214049
+      }
+    }
+  }
+}
